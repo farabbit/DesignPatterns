@@ -6,14 +6,14 @@ Achieve all design patterns in a simplest way using Python
 
 * Creational Design Patterns
   * [ ] Singleton
-  * [x] Factory
-  * [x] Factory Method
+  * [x] [Factory](/Factory.py)
+  * [x] [Factory Method](/Factory.py)
   * [ ] Abstract Factory
-  * [x] Builder
+  * [x] [Builder](/Factory.py)
   * [ ] Prototype
   * [ ] Object Pool
 * Behavioral Design Patterns
-  * [x] Chain of Responsibility
+  * [x] [Chain of Responsibility](/Factory.py)
   * [ ] Command
   * [ ] Interpreter
   * [ ] Iterator
