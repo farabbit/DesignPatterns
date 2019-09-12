@@ -14,12 +14,12 @@ Achieve all design patterns in a simplest way using Python
   * [ ] Object Pool
 * Behavioral Design Patterns
   * [x] [Chain of Responsibility](/ChainOfResponsibility.py)
-  * [ ] Command
+  * [x] [Command](/Command.py)
   * [ ] Interpreter
   * [ ] Iterator
   * [ ] Mediator
   * [ ] Observer
-  * [ ] Strategy
+  * [x] [Strategy](/Strategy.py)
   * [ ] Template Method
   * [ ] Visitor
   * [ ] Null Object
